@@ -21,6 +21,6 @@ Clone my repositiory and create and environment,then run the below commands in t
     
 ## Working
 
-To see the realtime calassicfications of  this project open the jupyter notebook and run the cells.
+To see the realtime calassifications of  this project open the jupyter notebook and run the cells.
 
 
